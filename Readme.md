@@ -45,7 +45,7 @@ The extension works by:
 
 Currently, the extension uses a predefined set of halal images and slang words. To modify these:
 
-- Edit the `willSmithPictures` array in `Content.js` to add or change images
+- Edit the `withHalalPictures` array in `Content.js` to add or change images
 - Modify the `slangs` array in the same file to customize filtered words
 
 ## Author
@@ -59,7 +59,7 @@ This project is licensed under the MIT License - see below for details:
 ```
 MIT License
 
-Copyright (c) 2023 [Your Name]
+Copyright (c) 2025 Tanvir Ahamed
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

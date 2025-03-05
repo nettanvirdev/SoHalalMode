@@ -1,4 +1,4 @@
-let willSmithPictures = [
+let withHalalPictures = [
   "https://doc.levelpixel.net/icon.jpg",
   "https://doc.levelpixel.net/icon.jpg",
 ];
@@ -7,9 +7,9 @@ setInterval(() => {
   const imgs = document.getElementsByTagName("img");
   const images = document.getElementsByTagName("image");
   for (let i = 0; i < imgs.length; i++) {
-    const randomIndex = Math.floor(Math.random() * willSmithPictures.length);
-    imgs[i].src = willSmithPictures[randomIndex];
-    images[i].src = willSmithPictures[randomIndex];
+    const randomIndex = Math.floor(Math.random() * withHalalPictures.length);
+    imgs[i].src = withHalalPictures[randomIndex];
+    images[i].src = withHalalPictures[randomIndex];
   }
 }, 500);
 
