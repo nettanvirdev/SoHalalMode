@@ -50,7 +50,7 @@ Currently, the extension uses a predefined set of halal images and slang words. 
 
 ## Author
 
-[Your Name] - [Your contact information or links]
+Tanvir Ahamed - LevelPixel
 
 ## License
 
