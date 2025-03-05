@@ -1,6 +1,6 @@
 # Web Content Modifier Extension
 
-A browser extension that replaces images with Will Smith pictures and filters out inappropriate language on web pages.
+A browser extension that replaces images with halal mode on pictures and filters out inappropriate language on web pages.
 
 ## Features
 
