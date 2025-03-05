@@ -4,7 +4,7 @@ A browser extension that replaces images with halal mode on pictures and filters
 
 ## Features
 
-- Replaces all images on web pages with random Will Smith pictures
+- Replaces all images on web pages with random halal pictures
 - Filters out inappropriate language and slang terms
 - Works automatically as you browse the web
 - Lightweight and low resource usage
@@ -37,13 +37,13 @@ For permanent installation in Firefox:
 
 The extension works by:
 
-- Replacing image sources with Will Smith pictures every half second
+- Replacing image sources with halal pictures every half second
 - Scanning text content for inappropriate words and replacing them with "[slang]"
 - Automatically running in the background as you browse
 
 ## Configuration
 
-Currently, the extension uses a predefined set of Will Smith images and slang words. To modify these:
+Currently, the extension uses a predefined set of halal images and slang words. To modify these:
 
 - Edit the `willSmithPictures` array in `Content.js` to add or change images
 - Modify the `slangs` array in the same file to customize filtered words
